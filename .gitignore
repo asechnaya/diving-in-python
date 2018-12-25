@@ -1,0 +1,8 @@
+#Исключим директорию __pycache__ :
+__pycache__/
+less
+/ 
+.idea/ 
+#Исключим сам файл .gitignore:
+.gitignore
+hello.py
